@@ -1,2 +1,0 @@
-# wp-brewtopia
-wordpress project
