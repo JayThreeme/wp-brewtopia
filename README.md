@@ -3,7 +3,7 @@
 **Website**: [LINK](https://wp-brewtopia.jaythree.dev/)
   
 - Wordpress Project Only
-- Built to be a static files
+- Static files from this repo
 
 
 ![Screenshot of Sportstxt](layout/layout.png)
