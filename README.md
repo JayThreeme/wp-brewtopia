@@ -1,6 +1,6 @@
 # Brewtopia
 
-- **Website**: [LINK](https://wp-brewtopia.jaythree.dev/)
+**Website**: [LINK](https://wp-brewtopia.jaythree.dev/)
   
 Project Only
 Brewtopia : Your Daily Brew, Your Perfect Escape
