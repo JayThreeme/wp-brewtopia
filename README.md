@@ -2,8 +2,8 @@
 
 **Website**: [LINK](https://wp-brewtopia.jaythree.dev/)
   
-Project Only
-Brewtopia : Your Daily Brew, Your Perfect Escape
+- Project Only
+- Brewtopia : Your Daily Brew, Your Perfect Escape
 Built to be a static files
 
 
